@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mattylll.github.io/ffin-2026-q3-02-ferrari-pcp-guaranteed-future/sitemap.xml
